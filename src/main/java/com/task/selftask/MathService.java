@@ -7,4 +7,7 @@ public class MathService {
     public Integer addTwoNumber(Integer a, Integer b) {
         return  a+b;
     }
+    public Integer add(Integer a,Integer b){
+        return a+b;
+    }
 }
